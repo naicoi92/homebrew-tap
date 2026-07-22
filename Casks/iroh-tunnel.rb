@@ -4,7 +4,7 @@ cask "iroh-tunnel" do
 
   on_macos do
     on_arm do
-      sha256 "356084c382494033089c4f22721fcac1d066d22d0963b99d62b56ff10bb4e472"
+      sha256 "4bc0782f68a45d74675e63884e643d9775b0bd790cd6c57bf691261d9d841ec0"
       url "https://github.com/naicoi92/iroh-tunnel/releases/download/v#{version}/iroh-tunnel-#{version}-darwin-arm64.tar.gz"
     end
   end
